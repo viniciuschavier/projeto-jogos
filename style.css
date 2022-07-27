@@ -95,3 +95,12 @@ div.pag {
     color: white;
     text-decoration: none;
 }
+
+aside {
+    margin: 20px 20px 10px 20px;
+    text-align: center; 
+}
+
+aside a { 
+    color: blue;
+}
