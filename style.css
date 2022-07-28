@@ -104,3 +104,11 @@ aside {
 aside a { 
     color: blue;
 }
+
+footer { 
+    background-color: #2B4141;
+    text-align: center;
+    color: white;
+    font-size: 0.7em;
+    padding: 5px;
+}
